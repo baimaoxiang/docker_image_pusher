@@ -3,5 +3,22 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 lscr.io/linuxserver/jellyfin:latest
+ghcr.io/imagegenius/immich:latest
+lscr.io/linuxserver/calibre-web
+adminer
+lscr.io/linuxserver/duplicati
+lscr.io/linuxserver/freshrss
+joplin
+libretranslate/libretranslate
+lscr.io/linuxserver/mariadb
+neosmemo/memos:latest
+deluan/navidrome
+postgres:14
+redis
+diygod/rsshub
+yourselfhosted/slash:latest
+lscr.io/linuxserver/syncthing
+lscr.io/linuxserver/swag
+vaultwarden/server:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
