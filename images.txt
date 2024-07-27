@@ -1,8 +1,9 @@
 nginx
 adminer
-joplin
 redis
 #支持私库
+xhofe/alist:latest
+joplin/server:latest
 lscr.io/linuxserver/jellyfin:latest
 ghcr.io/imagegenius/immich:latest
 lscr.io/linuxserver/calibre-web
